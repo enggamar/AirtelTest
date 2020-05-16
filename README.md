@@ -1,10 +1,11 @@
 "# AirtelTest" 
 
-## MVVM
-## Retrofit
-## Kotlin
-## Coroutine
-## DataBinding
-
-## I Used hardcoded city in string file
+#==========================================
+ MVVM\n
+ Retrofit\n
+ Kotlin\n
+ Coroutine\n
+ DataBinding\n
+#==========================================
+I Used hardcoded city in string file
 
