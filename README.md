@@ -1,5 +1,10 @@
 "# AirtelTest" 
 
-# I Used Corounites and Retrofit
-# I Used hardcoded city in string file
+## MVVM
+## Retrofit
+## Kotlin
+## Coroutine
+## DataBinding
+
+## I Used hardcoded city in string file
 
